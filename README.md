@@ -10,7 +10,7 @@ Aether Hunter, including its source code, object code, architecture,
 algorithms, detection mechanisms, heuristics, workflows, configuration,
 documentation, interfaces, scripts, datasets, benchmarks, and associated
 materials (collectively, the "Software"), is proprietary intellectual
-property of [OWNER].
+property of [JAKE AARON BUNN].
 
 All rights not expressly granted by this license are reserved.
 
@@ -141,7 +141,7 @@ permitted by law.
 18. ENTIRE AGREEMENT
 
 This license constitutes the license governing the Software unless
-superseded by a separate written agreement signed by [OWNER].
+superseded by a separate written agreement signed by [JAKE AARON BUNN].
 
 AETHER HUNTER
 
